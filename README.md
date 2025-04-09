@@ -1,2 +1,1 @@
-# Movie-Recommendation-System
-Machine Learning Project
+# movie_recommender_system
